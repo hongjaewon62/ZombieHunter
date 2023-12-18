@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{05DD7AD0-14FF-79F4-527D-1EEAA7831AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0F09A85D-EDC4-662E-685A-DBAACAAAE700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Crosshairs.Editor", "OccaSoftware.Crosshairs.Editor.csproj", "{B0881AF7-4F9F-3550-F3A1-41584E35DD2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DD7AD0-14FF-79F4-527D-1EEAA7831AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DD7AD0-14FF-79F4-527D-1EEAA7831AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DD7AD0-14FF-79F4-527D-1EEAA7831AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DD7AD0-14FF-79F4-527D-1EEAA7831AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F09A85D-EDC4-662E-685A-DBAACAAAE700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F09A85D-EDC4-662E-685A-DBAACAAAE700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F09A85D-EDC4-662E-685A-DBAACAAAE700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F09A85D-EDC4-662E-685A-DBAACAAAE700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0881AF7-4F9F-3550-F3A1-41584E35DD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0881AF7-4F9F-3550-F3A1-41584E35DD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0881AF7-4F9F-3550-F3A1-41584E35DD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0881AF7-4F9F-3550-F3A1-41584E35DD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

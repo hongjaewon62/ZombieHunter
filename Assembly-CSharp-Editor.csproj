@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C00357B4-DF85-B4BC-7CB6-DA51A8350998}</ProjectGuid>
+    <ProjectGuid>{0F09A85D-EDC4-662E-685A-DBAACAAAE700}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -831,11 +831,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{06570B97-0772-0FF0-BE7C-6BD02C18A982}</Project>
+      <Project>{05DD7AD0-14FF-79F4-527D-1EEAA7831AB3}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="OccaSoftware.Crosshairs.Editor.csproj">
-      <Project>{47CBF5D9-EB26-4EA9-C4AB-D9AF22CA4873}</Project>
+      <Project>{B0881AF7-4F9F-3550-F3A1-41584E35DD2C}</Project>
       <Name>OccaSoftware.Crosshairs.Editor</Name>
     </ProjectReference>
   </ItemGroup>
