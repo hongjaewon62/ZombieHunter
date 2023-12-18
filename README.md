@@ -3,7 +3,7 @@
 <hr>
 <h2 id="Play">게임 영상</h2>
 <a href="https://youtu.be/8Ci53IvIoj4">
-    <img src="![zombieHunter](https://github.com/hongjaewon62/ZombieHunter/assets/118181265/301b551a-685c-4dd5-bf38-f9b28577ed78)" width="100%" height="100%"/>
+    ![zombieHunter](https://github.com/hongjaewon62/ZombieHunter/assets/118181265/301b551a-685c-4dd5-bf38-f9b28577ed78)
 </a>
 이미지를 클릭하면 영상이 재생됩니다.
 
