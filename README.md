@@ -5,6 +5,7 @@
 <a href="https://youtu.be/8Ci53IvIoj4">
     <img src="https://github.com/hongjaewon62/ZombieHunter/assets/118181265/301b551a-685c-4dd5-bf38-f9b28577ed78" width="60%" height="60%"/>
 </a>
+<br>
 이미지를 클릭하면 영상이 재생됩니다.
 
 <hr>
@@ -21,8 +22,8 @@
     </li>
     <li>
         <h3>Development Period</h3>
-        <p>시작 일자 : 2023.03.27</p>
-        <p>총 개발 기간 : 2달</p>
+        <p>시작 일자 : 2023.05.01</p>
+        <p>총 개발 기간 : 1달</p>
     </li>
     <li>
         <h3>Development Member</h3>
