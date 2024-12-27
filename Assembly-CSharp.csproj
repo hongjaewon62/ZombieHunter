@@ -94,7 +94,7 @@
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Shaders\Ice.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Respawn.shader" />
-    <None Include="Assets\Download\PolygonZombies\Shaders\POLYGON_Zombies.shader" />
+    <None Include="Assets\Resources\Download\PolygonZombies\Shaders\POLYGON_Zombies.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF.shader" />
@@ -102,12 +102,12 @@
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Download\PolygonBattleRoyale\Shader\DamageZone.shader" />
+    <None Include="Assets\Resources\Download\PolygonBattleRoyale\Shader\DamageZone.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\FireFly.shader" />
-    <None Include="Assets\Download\Images\OccaSoftware\Crosshairs\Readme.txt" />
-    <None Include="Assets\Download\PolygonBossZombies\Shaders\POLYGON_ZombieBoss.shader" />
+    <None Include="Assets\Resources\Download\Images\OccaSoftware\Crosshairs\Readme.txt" />
+    <None Include="Assets\Resources\Download\PolygonBossZombies\Shaders\POLYGON_ZombieBoss.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\UnityTechnologies\ParticlePack\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />

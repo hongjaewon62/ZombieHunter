@@ -56,10 +56,10 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Download\Images\OccaSoftware\Crosshairs\Editor\StartMenu.cs" />
+    <Compile Include="Assets\Resources\Download\Images\OccaSoftware\Crosshairs\Editor\StartMenu.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Download\Images\OccaSoftware\Crosshairs\Editor\OccaSoftware.Crosshairs.Editor.asmdef" />
+    <None Include="Assets\Resources\Download\Images\OccaSoftware\Crosshairs\Editor\OccaSoftware.Crosshairs.Editor.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
